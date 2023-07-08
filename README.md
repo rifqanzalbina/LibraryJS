@@ -1,5 +1,4 @@
 # LibraryJS
-Library JS Learning from dowload to install at project 
 
-# Make By
+## Make By
 rifqanzalbina

@@ -7,5 +7,5 @@ A JavaScript library typically consists of a set of functions and methods that c
 These libraries are developed and maintained by third-party organizations or individuals, 
 and they can be freely used, modified, and distributed according to their respective licenses.
 
-## Make By
+## Made By
 rifqanzalbina
